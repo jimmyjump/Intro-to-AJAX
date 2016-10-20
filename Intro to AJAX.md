@@ -8,7 +8,7 @@ In this course you will learn how to make **asynchronous requests** with **JavaS
 
 Next page button has mostly disappeared from the web. Modern web pages can load content without reloading the whole page. All thanks to **AJAX** (*Asynchronous JavaScript and XML*). **AJAX** allows data to be loaded asynchronously. They happen in the background without blocking the rest of the page. **Twetting**, **Scrolling newsfeed on Twitter**, **Posting a new status on Facebook**, **Viewing friends pictures on Facebook** are all examples of **AJAX** in real word pages/apps.
 
-We are going to build **Move Planner App** in this course. It will use data from [**Google Street View**](https://www.google.com/streetview/), [**Wikipedia**](https://www.mediawiki.org/wiki/API:Main_page) and New [**York Times**](https://developer.nytimes.com/).
+We are going to build **Move Planner App** in this course. It will use data from [**Google Street View**](https://www.google.com/streetview/), [**Wikipedia**](https://www.mediawiki.org/wiki/API:Main_page) and [**New York Times**](https://developer.nytimes.com/).
 
 - http://api.jquery.com/jquery.ajax/
 - https://developers.google.com/apis-explorer/#p/
@@ -24,3 +24,7 @@ Facebook and Twitter use their own internal APIs.
 But, luckily there are a lot of public APIs on the web that serve interesting data for free.
 
 YouTube API, Flickr API, Twitter API, GitHub API, Maps API, Reddit API are some examples of publicly available APIs.
+
+
+- API keys
+Get API key for NYT API.
